@@ -65,3 +65,8 @@ Microsoft Azure
 7. Click **\[ Deploy Now ]**.
 
 Capella deploys your database with your chosen settings
+
+## **Deploy Your App Services Trial**
+
+You can use Capella App Services to sync data between Capella buckets and mobile or edge devices running [Couchbase Lite](https://docs.couchbase.com/couchbase-lite/current/index.html). You can also use it to authenticate and manage mobile and edge users.
+
