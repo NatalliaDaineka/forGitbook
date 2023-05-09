@@ -8,7 +8,7 @@ Create a Couchbase Capella account to start using Capella to manage your data.
 
 To get started, you can use a Couchbase Capella Free Trial.
 
-## **Create a Free Account**&#x20;
+## **Create a Free Account**  <a href="#create-a-free-account" id="create-a-free-account"></a>
 
 1. In your web browser, go to the [Couchbase Capella Sign-up page](https://cloud.couchbase.com/sign-up).
 2. In the **Full name** field, enter your full name.
@@ -30,9 +30,7 @@ Couchbase sends an email to your provided email address with a confirmation code
 
 **Note**: After you [Create a Free Account](https://docs.couchbase.com/cloud/get-started/create-account.html#sign-up-free-trial), you can upgrade your account with an Activation ID from Couchbase Sales. To access all features of Couchbase Capella,[ Add an Activation ID](https://docs.couchbase.com/cloud/billing/upgrade-account.html#add-an-activation-id) to your account.
 
-
-
-## Deploy Your Database
+## Deploy Your Database <a href="#deploy-your-database" id="deploy-your-database"></a>
 
 After you create your account, answer some questions to customize your Capella experience and deploy your database.
 
