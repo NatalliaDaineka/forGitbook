@@ -8,7 +8,7 @@ Create a Couchbase Capella account to start using Capella to manage your data.
 
 To get started, you can use a Couchbase Capella Free Trial.
 
-### **Create a Free Account**&#x20;
+## **Create a Free Account**&#x20;
 
 1. In your web browser, go to the [Couchbase Capella Sign-up page](https://cloud.couchbase.com/sign-up).
 2. In the **Full name** field, enter your full name.
